@@ -5,6 +5,7 @@
   },
   "dependencies": {
     "bootstrap-sass": "^3.0.0",
+    "bower": "^1.6.3",
     "gulp": "^3.9.0",
     "laravel-elixir": "^3.0.0"
   }
